@@ -1,74 +1,29 @@
-# Trilha HTML - Dio.me
-## Módulo 02 - HTML I - Conceitos Básicos
+## Welcome to My 90s Style HTML Page
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
-- Formulários
-- Estruturação e formatação de texto
-- Mídias
-- Tabelas
+### Description
 
-Além de outros recursos falados nas aulas!
+This project is a from the course HTML make it on **DIO Innovation One** and I call it a 1990s aesthetic because the goal of this project is not using or using the minimal CSS to recreate a look from that area, since we are learning HTML not focus on extra stylesheets.
 
-## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-2. Este site deve conter o seguinte menu de navegação:
-    - Página Principal
-    - Sobre a clínica
-    - Horário de Atendimento
-    - Contato
-3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
+By doing so, the project is a nostalgic throwback to the web design aesthetic of the 1990s.
 
-Abaixo como cada página deve ser criada e estruturada.
+![](img/readme.png)
 
-### Estrutura das páginas
+### Features
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
+- **Retro Design**: The HTML page embraces the vintage design elements popularized in the 90s, including vibrant colors, basic layouts, and animated GIFs.
+- **Minimal CSS**: The CSS used in this project is kept to a minimum, staying true to the simplistic styling prevalent in 90s websites.
+- **Content**: The page includes various sections reminiscent of classic web pages, such as headings, paragraphs, and a table.
 
-![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
+### How to View
 
-\* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
+To experience the nostalgic charm of this 90s-style HTML page:
 
-No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
-### Página Principal
-1. Deve ter uma imagem no **Header**.
-2. Em **Content** uma breve descrição sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your preferred web browser.
+3. Sit back and enjoy a trip down memory lane as you explore the retro design elements.
 
-### Sobre a clínica
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um texto falando sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+### Credits
 
-### Horário de Atendimento
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
-
-|Serviços |Segunda a Sexta | Sábados | Feriados |
-|---|---|---|---|
-|Clínica geral | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Psicologia | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Pediatria | 08h - 19h  | 08h - 18h | - |
-|Oftalmologia | 08h - 19h  | 08h - 18h | - |
-|||||
-
-3. **Menu** e **Footer** padrões em todas as páginas.
-
-
-### Contato
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** deve ter:
-    - Os telefones de contato (celular e whatsapp)
-    - Endereço completo da clínica
-    - Um Iframe com o Google Maps apontando o endereço da clínica
-    - Um formulário de contato com:
-        - Nome (type="text")
-        - E-mail (type="email")
-        - Assunto (type="text")
-        - Mensagem (textarea)
-        - Botões de envias e limpar formulário
-
-3. **Menu** e **Footer** padrões em todas as páginas.
-
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
-
-Bora pra cima!
+- **Professor of the course**: [Diogo Mainardes.](https://github.com/diogomainardes)
+- **Forked from**: [DIO Innovation One repository](https://github.com/digitalinnovationone/trilha-html-modulo-2)
+- **Inspiration**: The design and styling of this project were inspired by the web design trends of the 1990s.
