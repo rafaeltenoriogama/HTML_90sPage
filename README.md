@@ -27,3 +27,5 @@ To experience the nostalgic charm of this 90s-style HTML page:
 - **Professor of the course**: [Diogo Mainardes.](https://github.com/diogomainardes)
 - **Forked from**: [DIO Innovation One repository](https://github.com/digitalinnovationone/trilha-html-modulo-2)
 - **Inspiration**: The design and styling of this project were inspired by the web design trends of the 1990s.
+
+---
