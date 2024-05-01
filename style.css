@@ -36,7 +36,19 @@ body {
   background-color: white;
   min-height: 300px;
   padding: 20px;
+  display: flex;
 }
+
+#map-container {
+  padding: 5px;
+}
+
+#form-container {
+  flex: 1;
+
+  padding: 20px;
+}
+
 .footer {
   background-color: white;
   min-height: 150px;
