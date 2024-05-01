@@ -7,6 +7,11 @@ This project is a from the course HTML make it on **DIO Innovation One** and I c
 By doing so, the project is a nostalgic throwback to the web design aesthetic of the 1990s.
 
 ![](img/readme.png)
+<small> <b>Figure 1</b><i>: Print from page contact.html in this project.</i> </small>
+
+![](img/readme2.png)
+
+<small> <b> Figure 2</b><i>:Example of 90s page from Ebay.</i> </small>
 
 ### Features
 
@@ -27,3 +32,5 @@ To experience the nostalgic charm of this 90s-style HTML page:
 - **Professor of the course**: [Diogo Mainardes.](https://github.com/diogomainardes)
 - **Forked from**: [DIO Innovation One repository](https://github.com/digitalinnovationone/trilha-html-modulo-2)
 - **Inspiration**: The design and styling of this project were inspired by the web design trends of the 1990s.
+
+--
