@@ -6,7 +6,7 @@ This project is a from the course HTML make it on **DIO Innovation One** and I c
 
 By doing so, the project is a nostalgic throwback to the web design aesthetic of the 1990s.
 
-![](img/readme.png)
+![](img/readme1.png)
 <small> <b>Figure 1</b><i>: Print from page contact.html in this project.</i> </small>
 
 ![](img/readme2.png)
